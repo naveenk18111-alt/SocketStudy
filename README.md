@@ -55,7 +55,7 @@ Socket programming finds applications in various domains, including web developm
 
 ## Program:
 
-client.py
+### `client.py`
 ```py
 import socket
 
@@ -78,7 +78,8 @@ print("Server says:", data)
 # Close socket
 client_socket.close()
 ```
-server.py
+
+### `server.py`
 ```py
 import socket
 
